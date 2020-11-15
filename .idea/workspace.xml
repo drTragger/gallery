@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97591112-4d1e-4cb1-b94a-f0e1a1077f0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iHC9RKOLrgH3OHaowU7TzAD6Kk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/rules" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\011020.local\" />
+      <recent name="C:\OpenServer\domains\011020.local\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97591112-4d1e-4cb1-b94a-f0e1a1077f0e" name="Default Changelist" comment="" />
+      <created>1601554978238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601554978238</updated>
+      <workItem from="1601554979275" duration="22189000" />
+      <workItem from="1601587323747" duration="5229000" />
+      <workItem from="1601592575043" duration="10225000" />
+      <workItem from="1601671903870" duration="6639000" />
+      <workItem from="1601755105764" duration="3904000" />
+      <workItem from="1601841331923" duration="2552000" />
+      <workItem from="1601900137362" duration="14000" />
+      <workItem from="1602958013533" duration="631000" />
+      <workItem from="1602963351623" duration="600000" />
+      <workItem from="1603050771061" duration="26000" />
+      <workItem from="1603097155756" duration="2261000" />
+      <workItem from="1603273633566" duration="526000" />
+      <workItem from="1603283605287" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1162" y="275" key="FileChooserDialogImpl" timestamp="1603283631254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1162" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603283631254" />
+    <state x="1216" y="443" key="NewPhpFileDialog" timestamp="1601555239656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1216" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601555239656" />
+  </component>
+</project>
